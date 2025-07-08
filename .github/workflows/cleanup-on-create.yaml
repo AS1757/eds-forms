@@ -39,7 +39,7 @@ jobs:
           cat > fstab.yaml << 'EOL'
           mountpoints:
             /:
-              url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/{owner}/{repo}/main
+              url: https://author-p101704-e1311300.adobeaemcloud.com/bin/franklin.delivery/as1757/eds-forms/main
               type: "markup"
               suffix: ".html"
           EOL
